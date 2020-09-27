@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm not gay, but you are
+### Discord contact: TERROR#1337
+A mentally unstable person can cause a serious problem
 
 <!--
 **TH3AL3X/th3al3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
