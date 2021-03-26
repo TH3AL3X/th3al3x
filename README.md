@@ -1,1 +1,1 @@
-![Discord](https://darknesscommunity.club/images/discord.png =16x16) Discord: TERROR#1337
+![discord](https://darknesscommunity.club/images/discord.png){:height="36px" width="36px"}. Discord: TERROR#1337
