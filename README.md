@@ -1,1 +1,1 @@
-### Discord contact: ### TERROR#1337
+### Discord: TERROR#1337
