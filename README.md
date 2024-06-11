@@ -1,6 +1,3 @@
-
-
-###
 <div style="background: #262727; height: 30px;">
     <div style="float: left;">
         <img src="visual_studio.png" height="20px" style="padding-top: 5px; padding-left: 5px;"></img>
